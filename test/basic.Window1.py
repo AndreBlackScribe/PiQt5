@@ -1,4 +1,4 @@
-from PyQt5.QtWidgetsimport QApplication, QWidget
+from PyQt5.QtWidgets import QApplication, QWidget
 import sys
 
 app = QApplication(sys.argv)
